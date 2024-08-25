@@ -1,5 +1,4 @@
-#Jerome Bizimana
-#Alex Kanu
+
 
 #File: restaurant.py
 from datetime import datetime

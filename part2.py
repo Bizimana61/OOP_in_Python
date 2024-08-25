@@ -1,5 +1,4 @@
-#Jerome Bizimana
-#Alex Kanu
+
 
 # part2.py
 
